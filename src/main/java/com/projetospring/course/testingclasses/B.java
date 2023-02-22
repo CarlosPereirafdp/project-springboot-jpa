@@ -1,4 +1,6 @@
-package com.projetospring.course;
+package com.projetospring.course.testingclasses;
+
+import com.projetospring.course.testingclasses.A;
 
 public class B extends A {
 
