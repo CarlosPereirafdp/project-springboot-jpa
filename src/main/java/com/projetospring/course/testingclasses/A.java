@@ -1,4 +1,4 @@
-package com.projetospring.course;
+package com.projetospring.course.testingclasses;
 
 public class A {
 
